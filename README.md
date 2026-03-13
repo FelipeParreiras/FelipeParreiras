@@ -98,7 +98,7 @@ Bots e rotinas para automação de processos, scraping, tratamento de dados e in
 <p>
   <a href="https://linkedin.com/in/felipeparreiras">LinkedIn</a> •
   <a href="https://github.com/FelipeParreiras">GitHub</a> •
-  <a href="mailto:felipe.parreiras04@gmail.com">Email</a>
+  <a href="mailto:felipe.parreiras04@gmail.com">Email</a> •
   <a href="https://api.whatsapp.com/send/?phone=5531996246080&text=Ol%C3%A1%2C+Felipe%21+Vi+seu+portf%C3%B3lio+e+gostaria+de+marcar+um+bate-papo.&type=phone_number&app_absent=0">Whatsapp</a>
 </p>
 
