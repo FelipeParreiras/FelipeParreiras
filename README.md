@@ -1,110 +1,128 @@
-<h1 align="center">Olá, eu sou Felipe Parreiras </h1>
+<h1 align="center">Felipe Parreiras</h1>
 
 <p align="center">
-  Desenvolvedor de Software Full Stack em formação, apaixonado por tecnologia, interfaces modernas, backend robusto e soluções que geram impacto real.
+Full Stack Software Developer • Java • Spring • React • Cloud • APIs • Automation
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FelipeParreiras&label=Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge" />
-  <a href="https://github.com/FelipeParreiras">
-    <img src="https://img.shields.io/github/followers/FelipeParreiras?label=Seguidores&style=for-the-badge" alt="followers" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=FelipeParreiras&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/FelipeParreiras?label=Followers&style=for-the-badge" />
+
   <a href="https://linkedin.com/in/felipeparreiras">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:felipe.parreiras04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" alt="email" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## About me
 
-- 🎓 Estudante de Engenharia de Software
-- 💻 Desenvolvedor Full Stack com foco em aplicações web modernas
-- ⚙️ Experiência com backend, frontend, banco de dados e cloud
-- 📚 Sempre buscando evolução técnica e profissional
-- 🎯 Interesse em projetos com impacto real, arquitetura bem definida e boa experiência de usuário
+- Software Engineering student
+- Full Stack Developer
+- Experience with Web Systems, APIs, Cloud and Automation
+- Focus on clean architecture and modern UI
+- Always learning and building real projects
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tech Stack
 
-### Linguagens
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,php,python,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,php,python,html,css,sql" />
 </p>
 
 ### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
 </p>
 
 ### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,php" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,php" />
 </p>
 
-### Banco de dados
+### Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
 
-### Cloud, DevOps e ferramentas
+### Cloud / Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,vscode" />
 </p>
 
 ---
 
-## 💼 Áreas em que atuo
+## What I work with
 
-- Desenvolvimento Full Stack
-- APIs REST
-- Sistemas web com Java + Spring Boot
-- Projetos PHP com arquitetura MVC
-- Interfaces modernas com React
-- Banco de dados relacionais e não relacionais
-- Automação com Python
-- Integração com serviços cloud
-
----
-
-## 📌 Projetos em destaque
-
-### 🔹 Portfólio pessoal
-Portfólio desenvolvido para apresentar meus projetos, habilidades e identidade visual como desenvolvedor, com foco em interface moderna e experiência interativa.
-
-### 🔹 Sistemas web acadêmicos e profissionais
-Atuação em projetos com autenticação, dashboards, perfis de acesso, relatórios, integrações e organização em arquitetura MVC/microserviços.
-
-### 🔹 Automação e integração de dados
-Bots e rotinas para automação de processos, scraping, tratamento de dados e integração com banco de dados.
+- Full Stack Development
+- REST APIs
+- Java + Spring Boot
+- PHP MVC systems
+- React interfaces
+- SQL / NoSQL databases
+- Python automation
+- Cloud integrations
 
 ---
 
-## 📈 GitHub Stats
+## Projects
+
+- Portfolio website
+- Web systems with authentication and dashboards
+- Automation bots and data integration
+- Academic and professional software projects
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeParreiras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeParreiras&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeParreiras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeParreiras&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
+
 ---
 
-## 🌐 Onde me encontrar
+## Contact
 
 <p>
-  <a href="https://linkedin.com/in/felipeparreiras">LinkedIn</a> •
-  <a href="https://github.com/FelipeParreiras">GitHub</a> •
-  <a href="mailto:felipe.parreiras04@gmail.com">Email</a> •
-  <a href="https://api.whatsapp.com/send/?phone=5531996246080&text=Ol%C3%A1%2C+Felipe%21+Vi+seu+portf%C3%B3lio+e+gostaria+de+marcar+um+bate-papo.&type=phone_number&app_absent=0">Whatsapp</a>
+
+LinkedIn  
+https://linkedin.com/in/felipeparreiras
+
+GitHub  
+https://github.com/FelipeParreiras
+
+Email  
+felipe.parreiras04@gmail.com
+
+WhatsApp  
+https://api.whatsapp.com/send/?phone=5531996246080
+
 </p>
 
 ---
 
-## ✨ Atualmente
+## Current focus
 
-- Aprimorando projetos Full Stack
-- Evoluindo em arquitetura de software
-- Construindo soluções com foco em qualidade, organização e experiência do usuário
+- Full Stack projects
+- Software architecture
+- Cloud services
+- Clean code
+- Professional portfolio
