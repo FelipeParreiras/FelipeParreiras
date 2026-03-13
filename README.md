@@ -87,34 +87,20 @@ Full Stack Software Developer • Java • Spring • React • Cloud • APIs �
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeParreiras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeParreiras&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeParreiras&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeParreiras&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+## 🌐 Onde me encontrar
 
-## Contact
-
-<p>
-
-LinkedIn  
-https://linkedin.com/in/felipeparreiras
-
-GitHub  
-https://github.com/FelipeParreiras
-
-Email  
-felipe.parreiras04@gmail.com
-
-WhatsApp  
-https://api.whatsapp.com/send/?phone=5531996246080
-
+<p align="center">
+  <a href="https://linkedin.com/in/felipeparreiras">LinkedIn</a> •
+  <a href="https://github.com/FelipeParreiras">GitHub</a> •
+  <a href="mailto:felipe.parreiras04@gmail.com">Email</a> •
+  <a href="https://api.whatsapp.com/send/?phone=5531996246080&text=Ol%C3%A1%2C+Felipe%21+Vi+seu+portf%C3%B3lio+e+gostaria+de+marcar+um+bate-papo.&type=phone_number&app_absent=0">WhatsApp</a>
 </p>
 
 ---
