@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FelipeParreiras&label=Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge" />
+</p>
   <a href="https://github.com/FelipeParreiras">
     <img src="https://img.shields.io/github/followers/FelipeParreiras?label=Seguidores&style=for-the-badge" alt="followers" />
   </a>
